@@ -1,0 +1,9 @@
+What happens when you initialize a repository? 
+
+-a hidden file called .git is added
+
+Why do you need to do it?
+
+-it creates .git which is where changes will be tracked moving forward
+-otherwise the other git commands won't be understood
+
