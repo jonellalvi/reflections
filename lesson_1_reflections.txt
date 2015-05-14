@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+-I could see only the lines that were relevant to what I needed to look at
+-I could see the differences between the two files pointed out for me. 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+-I could see if I was making the same mistake repeatedly
+-I could see if there were a certain area or piece of code that I was getting wrong a lot and go learn more about that
+-I could communicate more easily with others the areas where I needed help 
+-I can keep track of problem areas in one file
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+*pros of manually committing: 
+-lots of control over when to save
+-can create your own rules about it
+-can get as granular as you like
+
+*cons of manually choosing when to commit:
+-can forget
+-if auto saved, can happen at an illogical time
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+-I think it's because you use git to track code and gdocs to track docs, and you don't necessarily need to track multiple docs at the same time but you do need to track multiple code files because you might make related changes in related code files. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+-use git log to see the history of commits in the repository and get the commit ids
+-use commit ids with git diff to find out the changes b/w commits
+
+
+How might using version control make you more confident to make changes that could break something?
+
+- because I know that I can revert back to the previous checkout if I remember the commit id
+- because I know i can undo it. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+-getting shit done baby! 
+
