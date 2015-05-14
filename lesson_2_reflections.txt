@@ -7,3 +7,22 @@ Why do you need to do it?
 -it creates .git which is where changes will be tracked moving forward
 -otherwise the other git commands won't be understood
 
+How is the staging area different from the working directory and the repository? 
+
+-staging area lists files that you are thinking about commiting to the repository
+
+What value do you think it offers?
+
+-helps you logically separate the files you want to commit
+-provides and extra step so you don't mess up
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+-dbl check that there is only one file you're commiting too
+-way to be sure of what you want to do
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+-when tyring out new features so you keep track of different changes witout messing up the basic code
+-when making different versions like languages or even playing around
+-so you don't get confused.
