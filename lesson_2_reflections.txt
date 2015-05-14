@@ -36,3 +36,14 @@ How do the diagrams help you visualize the branch structure?
 -I can see the pattern and which commit belongs to which branch and who is who's parent
 -keep abstract ideas organized in my own head...
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+-merged branch has commits from both branches sorted by timestamp
+-so we can see which commits came from which branch?
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
+- Git shows you where there are conflicts (which you need to know about) and just handles the stuff you don't need to know about. 
+
