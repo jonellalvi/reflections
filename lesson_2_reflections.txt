@@ -26,3 +26,13 @@ What are some situations when branches would be helpful in keeping your history 
 -when tyring out new features so you keep track of different changes witout messing up the basic code
 -when making different versions like languages or even playing around
 -so you don't get confused.
+-collaborate with yourself by context switching when you find a bug
+-compartmentalize work
+-work on something else and keep it organized.
+-keep organized when working with others
+
+How do the diagrams help you visualize the branch structure?
+
+-I can see the pattern and which commit belongs to which branch and who is who's parent
+-keep abstract ideas organized in my own head...
+
